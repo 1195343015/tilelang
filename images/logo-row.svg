@@ -11,18 +11,18 @@
             }
 
             .gradient-light {
-                stop-color: #69E0F9;
-                /* 反转：蓝色变成粉色的对应色 */
+                stop-color: #96CE97;
+                /* 反转后的粉色 #E73768 */
             }
 
             .mid-gradient-light {
                 stop-color: #000000;
-                /* 白色变成黑色 */
+                /* 白色反转为黑色 */
             }
 
             .end-gradient-light {
-                stop-color: #E73768;
-                /* 反转：粉色变成蓝色的对应色 */
+                stop-color: #961F66;
+                /* 反转后的蓝色 #69E0F9 */
             }
 
             .invertible-image {
@@ -66,9 +66,9 @@
         </clipPath>
         <linearGradient x1="5.66719" y1="56.5386" x2="5.66719" y2="-222.487" gradientUnits="userSpaceOnUse"
             spreadMethod="pad" id="fill3">
-            <stop class="gradient-light" offset="0" stop-color="#E73768" />
-            <stop class="mid-gradient-light" offset="0.5" stop-color="#FFFFFF" />
-            <stop class="end-gradient-light" offset="1" stop-color="#69E0F9" />
+            <stop class="gradient-light" offset="0" />
+            <stop class="mid-gradient-light" offset="0.5" />
+            <stop class="end-gradient-light" offset="1" />
         </linearGradient>
     </defs>
     <g clip-path="url(#clip0)" transform="matrix(1 0 0 1 0 -1440)">
