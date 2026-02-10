@@ -10,6 +10,10 @@
                 fill: #010409;
             }
 
+            .mid-stop {
+                stop-color: #010409;
+            }
+
             @media(prefers-color-scheme:dark) {
                 .path1 {
                     fill: #010409;
@@ -17,6 +21,10 @@
 
                 .path2 {
                     fill: #ffffff;
+                }
+
+                .mid-stop {
+                    stop-color: #ffffff;
                 }
             }
         </style>
@@ -32,7 +40,7 @@
         <linearGradient x1="5.66719" y1="56.5386" x2="5.66719" y2="-222.487" gradientUnits="userSpaceOnUse"
             spreadMethod="pad" id="fill3">
             <stop offset="0" stop-color="#E73768" />
-            <stop offset="0.5" stop-color="#FFFFFF" />
+            <stop class="mid-stop" offset="0.5" stop-color="#FFFFFF" />
             <stop offset="1" stop-color="#69E0F9" />
         </linearGradient>
     </defs>
