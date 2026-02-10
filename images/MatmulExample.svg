@@ -18,15 +18,14 @@
                 stop-color: #961F06;
             }
 
-
-
             .path2 {
-                fill: #ffffff;
+                fill: #010409;
             }
 
             .path1 {
-                fill: #010409;
+                fill: #ffffff;
             }
+
 
             @media(prefers-color-scheme:dark) {
                 .invertible-image {
@@ -46,12 +45,13 @@
                 }
 
                 .path2 {
-                    fill: #010409;
+                    fill: #ffffff;
                 }
 
                 .path1 {
-                    fill: #ffffff;
+                    fill: #010409;
                 }
+
             }
         </style>
         <clipPath id="clip0">
