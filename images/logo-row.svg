@@ -11,18 +11,15 @@
             }
 
             .gradient-light {
-                stop-color: #96CE97;
-                /* 反转后的粉色 #E73768 */
+                stop-color: #18C897;
             }
 
             .mid-gradient-light {
                 stop-color: #000000;
-                /* 白色反转为黑色 */
             }
 
             .end-gradient-light {
-                stop-color: #961F66;
-                /* 反转后的蓝色 #69E0F9 */
+                stop-color: #961F06;
             }
 
             .invertible-image {
