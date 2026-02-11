@@ -889,23 +889,11 @@
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="400" font-stretch="normal" font-size="110" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
-                transform="matrix(1 0 0 1 1620.74 7280)">(a) Efficient GEMM with Multi</text><text class="path2"
-                fill="#000000" fill-opacity="1" font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal"
-                font-variant="normal" font-weight="400" font-stretch="normal" font-size="110" text-anchor="start"
-                direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
-                transform="matrix(1 0 0 1 2978.85 7280)">-</text><text class="path2" fill="#000000" fill-opacity="1"
-                font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
-                font-weight="400" font-stretch="normal" font-size="110" text-anchor="start" direction="ltr"
-                writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
-                transform="matrix(1 0 0 1 3016.09 7280)">Level Tiling on GPUs</text><text class="path2" fill="#000000"
-                fill-opacity="1" font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal"
-                font-variant="normal" font-weight="400" font-stretch="normal" font-size="110" text-anchor="start"
-                direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
-                transform="matrix(1 0 0 1 4290.32 7280)">(b) Describing Tiled GPU GEMM with </text><text class="path2"
-                fill="#000000" fill-opacity="1" font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal"
-                font-variant="normal" font-weight="400" font-stretch="normal" font-size="110" text-anchor="start"
-                direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
-                transform="matrix(1 0 0 1 6019.39 7280)">TileLang</text>
+                transform="matrix(1 0 0 1 1620.74 7280)">(a) Efficient GEMM with Multi-TileLang</text><text
+                class="path2" fill="#000000" fill-opacity="1" font-family="Aptos,Aptos_MSFontService,sans-serif"
+                font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="110"
+                text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
+                transform="matrix(1 0 0 1 4290.32 7280)">(b) Describing Tiled GPU GEMM with TileLang</text>
             <g transform="matrix(0.000360892 0 0 0.000360892 1339 5961)">
                 <g clip-path="url(#clip3)" transform="matrix(1.00011 0 0 1 -0.0235485 0.164795)">
                     <use width="100%" height="100%" xlink:href="#img2" opacity="1" transform="scale(2768.59 2768.59)">
