@@ -293,10 +293,10 @@
                 font-variant="normal" font-weight="700" font-stretch="normal" font-size="48" text-anchor="start"
                 direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 6158.16 6176)">)</text>
-            <rect x="4456.5" y="5986.5" width="1769" height="211" class="path2 st" stroke="#000000"
+            <rect x="4456.5" y="5986.5" width="1769" height="211" class="path1 st" stroke="#000000"
                 stroke-width="4.58333" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8"
                 stroke-dasharray="18.3333 13.75" stroke-opacity="1" fill="none" />
-            <rect x="4370.5" y="5690.5" width="1855" height="193" class="path2 st" stroke="#000000"
+            <rect x="4370.5" y="5690.5" width="1855" height="193" class="path1 st" stroke="#000000"
                 stroke-width="4.58333" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8"
                 stroke-dasharray="18.3333 13.75" stroke-opacity="1" /><text class="red" fill="#D62728" fill-opacity="1"
                 font-family="Courier New,Courier New_MSFontService,sans-serif" font-style="normal" font-variant="normal"
