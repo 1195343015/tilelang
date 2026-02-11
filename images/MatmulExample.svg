@@ -887,11 +887,11 @@
                 stroke-linejoin="miter" stroke-miterlimit="8" stroke-dasharray="41.25 30.9375" stroke-opacity="1"
                 fill="none" fill-rule="evenodd" /><text class="path2" fill="#000000" fill-opacity="1"
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
-                font-weight="400" font-stretch="normal" font-size="100" text-anchor="start" direction="ltr"
+                font-weight="400" font-stretch="normal" font-size="110" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 1620.74 7280)">(a) Efficient GEMM with Multi-Level Tiling on GPUs</text><text
                 class="path2" fill="#000000" fill-opacity="1" font-family="Aptos,Aptos_MSFontService,sans-serif"
-                font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="100"
+                font-style="normal" font-variant="normal" font-weight="400" font-stretch="normal" font-size="110"
                 text-anchor="start" direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 4290.32 7280)">(b) Describing Tiled GPU GEMM with TileLang</text>
             <g transform="matrix(0.000360892 0 0 0.000360892 1339 5961)">
