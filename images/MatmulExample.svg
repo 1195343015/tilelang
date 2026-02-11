@@ -30,6 +30,10 @@
                 fill: #CCDAF6;
             }
 
+            .st {
+                stroke: #000000;
+            }
+
             .red {
                 fill: #D62728;
             }
@@ -50,6 +54,17 @@
                 fill: #666666;
             }
 
+            .gm {
+                fill: #8C4441;
+            }
+
+            .sm {
+                fill: #1A839D;
+            }
+
+            .rf {
+                fill: #3A9A35;
+            }
 
             @media(prefers-color-scheme:dark) {
                 .invertible-image {
@@ -80,6 +95,10 @@
                     fill: #332509;
                 }
 
+                .st {
+                    stroke: #FFFFFF;
+                }
+
                 .red {
                     fill: #29D8D7;
                 }
@@ -98,6 +117,18 @@
 
                 .gray {
                     fill: #999999;
+                }
+
+                .gm {
+                    fill: #73BBBE;
+                }
+
+                .sm {
+                    fill: #E57C62;
+                }
+
+                .rf {
+                    fill: #B4E5A2;
                 }
             }
         </style>
@@ -262,12 +293,12 @@
                 font-variant="normal" font-weight="700" font-stretch="normal" font-size="48" text-anchor="start"
                 direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 6158.16 6176)">)</text>
-            <rect x="4456.5" y="5986.5" width="1769" height="211" stroke="#000000" stroke-width="4.58333"
+            <rect x="4456.5" y="5986.5" width="1769" height="211" class="st" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75"
                 stroke-opacity="1" fill="none" />
-            <rect x="4370.5" y="5690.5" width="1855" height="193" stroke="#000000" stroke-width="4.58333"
+            <rect x="4370.5" y="5690.5" width="1855" height="193" class="st" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75"
-                stroke-opacity="1" fill="#FFFFFF" fill-opacity="1" /><text class="red" fill="#D62728" fill-opacity="1"
+                stroke-opacity="1" /><text class="red" fill="#D62728" fill-opacity="1"
                 font-family="Courier New,Courier New_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="700" font-stretch="normal" font-size="48" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
@@ -449,8 +480,8 @@
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 4668.58 5862)">by):</text>
             <rect x="6180.5" y="5981.5" width="45" height="143" stroke="#000000" stroke-width="4.58333"
-                stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" fill="#1A839D"
-                fill-opacity="1" /><text class="purple" fill="#9467BD" fill-opacity="1"
+                stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" class="sm,st"
+                fill="#1A839D" fill-opacity="1" /><text class="purple" fill="#9467BD" fill-opacity="1"
                 font-family="Courier New,Courier New_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="700" font-stretch="normal" font-size="48" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
@@ -482,7 +513,7 @@
                 font-family="Courier New,Courier New_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="700" font-stretch="normal" font-size="48" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
-                transform="matrix(1 0 0 1 4611.28 6451)">k</text><text fill="#1F77B4" fill-opacity="1"
+                transform="matrix(1 0 0 1 4611.28 6451)">k</text><text class="blue" fill="#1F77B4" fill-opacity="1"
                 font-family="Courier New,Courier New_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="700" font-stretch="normal" font-size="48" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
@@ -697,36 +728,36 @@
                 transform="matrix(1 0 0 1 5585.24 6844)">)</text>
             <rect class="up" x="4370.5" y="5615.5" width="1855" height="76" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" fill="#CCDAF6"
-                fill-opacity="1" /><text class="path2" fill="#000000" fill-opacity="1"
+                fill-opacity="1" /><text class="path2,st" fill="#000000" fill-opacity="1"
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="400" font-stretch="normal" font-size="64" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 4917.51 5673)">Kernel Context Initialization</text>
-            <rect x="6180.5" y="6124.5" width="45" height="73" stroke="#000000" stroke-width="4.58333"
-                stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" fill="#4B1A5D"
-                fill-opacity="1" />
+            <rect x="6180.5" y="6124.5" width="45" height="73" class="st" stroke="#000000" stroke-width="4.58333"
+                stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" class="rf"
+                fill="#4B1A5D" fill-opacity="1" />
             <rect class="up" x="4456.5" y="5912.5" width="1769" height="76" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" fill="#CCDAF6"
-                fill-opacity="1" /><text class="path2" fill="#000000" fill-opacity="1"
+                fill-opacity="1" /><text class="path2,st" fill="#000000" fill-opacity="1"
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="400" font-stretch="normal" font-size="64" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
-                transform="matrix(1 0 0 1 5109.45 5970)">Buffer Allocation</text><text class="path2" fill="#000000"
+                transform="matrix(1 0 0 1 5109.45 5970)">Buffer Allocation</text><text class="path2,st" fill="#000000"
                 fill-opacity="1" font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal"
                 font-variant="normal" font-weight="400" font-stretch="normal" font-size="50" text-anchor="start"
                 direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 6241.78 6181)">Register</text>
-            <rect x="4456.5" y="6224.5" width="1769" height="63" stroke="#000000" stroke-width="4.58333"
+            <rect x="4456.5" y="6224.5" width="1769" height="63" class="st" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75"
                 stroke-opacity="1" fill="none" /><text class="path2" fill="#000000" fill-opacity="1"
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="400" font-stretch="normal" font-size="48" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 5431.51 6272)">Initialize Accumulate Buffer with Zero</text>
-            <rect x="4456.5" y="6395.5" width="1769" height="523" stroke="#000000" stroke-width="4.58333"
+            <rect x="4456.5" y="6395.5" width="1769" height="523" class="st" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75"
                 stroke-opacity="1" fill="none" />
-            <rect class="up" x="4456.5" y="6321.5" width="1769" height="76" stroke="#000000" stroke-width="4.58333"
+            <rect class="up,st" x="4456.5" y="6321.5" width="1769" height="76" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" fill="#CCDAF6"
                 fill-opacity="1" /><text class="path2" fill="#000000" fill-opacity="1"
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
@@ -793,30 +824,30 @@
                 font-variant="normal" font-weight="700" font-stretch="normal" font-size="48" text-anchor="start"
                 direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 5757.12 7081)">])</text>
-            <rect x="4456.5" y="7027.5" width="1769" height="84" stroke="#000000" stroke-width="4.58333"
+            <rect x="4456.5" y="7027.5" width="1769" height="84" class="st" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75"
                 stroke-opacity="1" fill="none" />
-            <rect class="up" x="4456.5" y="6953.5" width="1769" height="76" stroke="#000000" stroke-width="4.58333"
+            <rect class="up,st" x="4456.5" y="6953.5" width="1769" height="76" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" fill="#CCDAF6"
                 fill-opacity="1" /><text class="path2" fill="#000000" fill-opacity="1"
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="400" font-stretch="normal" font-size="64" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 4937.86 7012)">Write Back to Global Memory</text>
-            <rect x="4580.5" y="6543.5" width="1645" height="153" stroke="#000000" stroke-width="4.58333"
-                stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75"
-                stroke-opacity="1" fill="none" />
-            <rect class="up" x="4580.5" y="6469.5" width="1645" height="76" stroke="#000000" stroke-width="4.58333"
+            <rect x="4580.5" y="6543.5" width="1645" height="153" class="st" class="st" stroke="#000000"
+                stroke-width="4.58333" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8"
+                stroke-dasharray="18.3333 13.75" stroke-opacity="1" fill="none" />
+            <rect class="up,st" x="4580.5" y="6469.5" width="1645" height="76" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" fill="#CCDAF6"
                 fill-opacity="1" /><text class="path2" fill="#000000" fill-opacity="1"
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="400" font-stretch="normal" font-size="64" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 4827.91 6527)">Copy Data from Global to Shared Memory</text>
-            <rect x="4580.5" y="6786.5" width="1645" height="92" stroke="#000000" stroke-width="4.58333"
+            <rect x="4580.5" y="6786.5" width="1645" height="92" class="st" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-dasharray="18.3333 13.75"
                 stroke-opacity="1" fill="none" />
-            <rect class="up" x="4580.5" y="6713.5" width="1645" height="75" stroke="#000000" stroke-width="4.58333"
+            <rect class="up,st" x="4580.5" y="6713.5" width="1645" height="75" stroke="#000000" stroke-width="4.58333"
                 stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" fill="#CCDAF6"
                 fill-opacity="1" /><text class="path2" fill="#000000" fill-opacity="1"
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
@@ -832,27 +863,27 @@
                 direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 6241.78 6114)">Memory</text>
             <rect x="2093" y="5556" width="505" height="130" stroke="#000000" stroke-width="10.3125"
-                stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" fill="#8C4441"
-                fill-opacity="1" />
+                stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" class="gm,st"
+                fill="#8C4441" fill-opacity="1" />
             <rect x="3523" y="5556" width="505" height="130" stroke="#000000" stroke-width="10.3125"
-                stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" fill="#4B1A5D"
-                fill-opacity="1" /><text fill="#8C4441" fill-opacity="1"
+                stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" class="rf,st"
+                fill="#4B1A5D" fill-opacity="1" /><text class="gm" fill="#8C4441" fill-opacity="1"
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="700" font-stretch="normal" font-size="83" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 2070.16 5779)">Global Memory</text>
             <rect x="2808" y="5556" width="505" height="130" stroke="#000000" stroke-width="10.3125"
-                stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" fill="#1A839D"
-                fill-opacity="1" /><text fill="#1A839D" fill-opacity="1"
+                stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="8" stroke-opacity="1" class="sm,st"
+                fill="#1A839D" fill-opacity="1" /><text class="sm" fill="#1A839D" fill-opacity="1"
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
                 font-weight="700" font-stretch="normal" font-size="83" text-anchor="start" direction="ltr"
                 writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
-                transform="matrix(1 0 0 1 2785.16 5779)">Shared Memory</text><text fill="#4B1A5D" fill-opacity="1"
-                font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
-                font-weight="700" font-stretch="normal" font-size="83" text-anchor="start" direction="ltr"
-                writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
+                transform="matrix(1 0 0 1 2785.16 5779)">Shared Memory</text><text class="rf" fill="#4B1A5D"
+                fill-opacity="1" font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal"
+                font-variant="normal" font-weight="700" font-stretch="normal" font-size="83" text-anchor="start"
+                direction="ltr" writing-mode="lr-tb" unicode-bidi="normal" text-decoration="none"
                 transform="matrix(1 0 0 1 3534.24 5779)">Register Files</text>
-            <path d="M4154 5390 4154 7114.23" stroke="#000000" stroke-width="10.3125" stroke-linecap="butt"
+            <path d="M4154 5390 4154 7114.23" class="st" stroke="#000000" stroke-width="10.3125" stroke-linecap="butt"
                 stroke-linejoin="miter" stroke-miterlimit="8" stroke-dasharray="41.25 30.9375" stroke-opacity="1"
                 fill="none" fill-rule="evenodd" /><text class="path2" fill="#000000" fill-opacity="1"
                 font-family="Aptos,Aptos_MSFontService,sans-serif" font-style="normal" font-variant="normal"
