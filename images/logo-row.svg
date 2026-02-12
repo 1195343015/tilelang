@@ -11,22 +11,22 @@
             }
 
             .gradient-light {
-                stop-color: #D1486B;
+                stop-color: #BC596E;
             }
 
             .mid-gradient-light {
-                stop-color: #E6E6E6;
+                stop-color: #CCCCCC;
             }
 
             .end-gradient-light {
-                stop-color: #77C9E0;
+                stop-color: #85B2C7;
             }
 
             .invertible-image {
-                filter: invert(0.1);
+                filter: invert(0.2);
             }
 
-            @media(prefers-color-scheme:dark) {
+            /* @media(prefers-color-scheme:dark) {
                 .path1 {
                     fill: #010409;
                 }
@@ -50,7 +50,7 @@
                 .invertible-image {
                     filter: none;
                 }
-            }
+            } */
         </style>
         <clipPath id="clip0">
             <rect x="0" y="1440" width="2268" height="537" />
